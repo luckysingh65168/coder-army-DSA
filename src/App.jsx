@@ -3,13 +3,13 @@ import { Routes, Route } from "react-router-dom";
 
 // components
 import Nav from "./components/Navbar"
-import Home from "./components/Home"
-import Search from "./components/Search"
-import Sort from "./components/Sort"
-import Tree from "./components/Tree"
-import Graph from "./components/Graph"
-import Dp from "./components/Dp"
-import Page404 from "./components/Page404"
+import Home from "./pages/Home"
+import Search from "./pages/Search"
+import Sort from "./pages/Sort"
+import Tree from "./pages/Tree"
+import Graph from "./pages/Graph"
+import Dp from "./pages/Dp"
+import Page404 from "./pages/Page404"
 
 const App = () => {
   return (

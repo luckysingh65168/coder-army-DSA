@@ -1,0 +1,38 @@
+{
+    "search": [
+      "Linear Search",
+      "Binary Search"
+    ],
+    "sort": [
+      "Bubble Sort",
+      "Selection Sort",
+      "Insertion Sort",
+      "Merge Sort",
+      "Quick Sort"
+    ],
+    "tree": {
+      "Tree Traversal": [
+        "DFS",
+        "BFS",
+        "Inorder",
+        "Preorder",
+        "Postorder"
+      ],
+      "AVL Tree": [],
+      "LCS": []
+    },
+    "graph": [
+      "BFS",
+      "DFS",
+      "Dijkstra's",
+      "Prims",
+      "Kruskal's"
+    ],
+    "dp": [
+      "Fibonacci",
+      "0/1 Knapsack Problem",
+      "Longest Common Subsequence",
+      "LIS"
+    ]
+  }
+  
